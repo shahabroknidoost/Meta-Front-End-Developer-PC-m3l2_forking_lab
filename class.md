@@ -155,8 +155,6 @@ Read the instructions of this file in the README.md
 
   - [Shahzaib](https://github.com/ShahzaibJak) Front-End Development
 
-  -[shahabroknidoost](https://github.com/shahabroknidoost) Front-End Development
-
   - Shyama Nair - Version Control
 
   - [Sherburne, Joseph](https://github.com/wolfendex) Front-End Development
